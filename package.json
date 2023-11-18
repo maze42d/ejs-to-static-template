@@ -1,0 +1,8 @@
+{
+  "name": "ejs-to-static-template",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "https://github.com/maze42d/ejs-to-static-template",
+  "author": "Maze",
+  "license": "MIT"
+}
