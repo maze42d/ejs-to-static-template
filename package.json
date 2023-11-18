@@ -4,5 +4,14 @@
   "main": "main.js",
   "repository": "https://github.com/maze42d/ejs-to-static-template",
   "author": "Maze",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "colors": "^1.4.0",
+    "ejs": "^3.1.9",
+    "fs-extra": "^11.1.1"
+  },
+  "scripts": {
+    "run": "node main.js"
+  }
 }
