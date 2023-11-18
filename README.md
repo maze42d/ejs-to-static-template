@@ -1,4 +1,4 @@
-# ejs-to-static-template
+# EJS-to-static-template
 
 A simple script/template to turn your ejs project into static HTML.
 
