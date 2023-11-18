@@ -28,6 +28,7 @@ just not today.
 /* -------------------------------------------------------- */
 const compile = () => {
 
+  
   const funnyNumber = 69
 
   e2h({
@@ -38,6 +39,8 @@ const compile = () => {
   e2h({ // for reference compile one file twice, i didn't feel like writing a second file
     path: d+'/index.ejs',
   })
+
+  
 }
 
 /* -------------------------------------------------------- */
