@@ -45,3 +45,4 @@ Options are optional.
 - [ ] add `--watch / yarn run watch` just so it doesn't watch by default every time
 - [ ] scss
 - [ ] sligtly improved warning system
+- [ ] serve static
