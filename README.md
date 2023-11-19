@@ -1,6 +1,6 @@
 # EJS-to-static-template
 
-A simple script/template to turn your ejs project into static HTML.
+A simple script/template/boilerplate to turn your ejs project into static HTML.
 
 Put your files in the views folder, mention them in the compile() function in main.js and it's ready to go.
 Upon running keeps watching the folder and rebuilds every time there's a change.
